@@ -1,0 +1,5 @@
+nl\hu\iac\service\WindMolen.class
+nl\hu\iac\service\WindMolenServiceImpl.class
+nl\hu\iac\rest\WindMolenRestService.class
+nl\hu\iac\service\ServiceProvider.class
+nl\hu\iac\test\MyTest.class
