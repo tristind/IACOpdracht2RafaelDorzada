@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/restWindMolen.iml" filepath="$PROJECT_DIR$/restWindMolen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restwindmolenservice.iml" filepath="$PROJECT_DIR$/restwindmolenservice.iml" />
     </modules>
   </component>
 </project>
